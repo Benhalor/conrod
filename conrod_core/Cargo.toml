@@ -28,4 +28,4 @@ num = "0.3"
 pistoncore-input = "1.0.0"
 rusttype = { version = "0.8.3", features = ["gpu_cache"] }
 instant = "0.1"
-copypasta = "0.6"
+copypasta = { git = "https://github.com/Benhalor/copypasta", rev = "39cccc56cbdc911a1d4963ca73a62ec63d892e55"}
